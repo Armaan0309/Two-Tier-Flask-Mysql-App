@@ -115,6 +115,7 @@ docker run -d \
     flaskapp:latest
 
 ```
+These images are captured during the project:
 
 ![Screenshot 2025-01-16 144222](https://github.com/user-attachments/assets/23d2b51a-e09e-4d4e-8160-a35122c763eb)
 
@@ -139,7 +140,6 @@ docker run -d \
 
 - If you encounter issues, check Docker logs and error messages for troubleshooting.
 
-```
 
 
 
