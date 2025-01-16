@@ -116,6 +116,19 @@ docker run -d \
 
 ```
 
+![Screenshot 2025-01-16 144222](https://github.com/user-attachments/assets/23d2b51a-e09e-4d4e-8160-a35122c763eb)
+
+![Screenshot 2025-01-16 144733](https://github.com/user-attachments/assets/9ba63bed-f7fd-43e3-9f99-43a7255dab81)
+
+![Screenshot 2025-01-16 144507](https://github.com/user-attachments/assets/60361eba-10b2-4aa4-8c39-7f8acf742adf)
+
+![Screenshot 2025-01-16 145040](https://github.com/user-attachments/assets/a43f9c6c-4318-4562-97be-4346731adbd6)
+
+![Screenshot 2025-01-16 145129](https://github.com/user-attachments/assets/581b4939-604c-42cb-bb05-fd2418a0ae75)
+
+
+
+
 ## Notes
 
 - Make sure to replace placeholders (e.g., `your_username`, `your_password`, `your_database`) with your actual MySQL configuration.
@@ -128,17 +141,6 @@ docker run -d \
 
 ```
 
- # These are the Images captured during the Project
-
-![Screenshot 2025-01-16 144222](https://github.com/user-attachments/assets/38636e37-705e-4bbb-8580-25c60631655d)
-
-![Screenshot 2025-01-16 144507](https://github.com/user-attachments/assets/c09b10b8-4fc4-42aa-9b20-2f29e2d568dc)
-
-![Screenshot 2025-01-16 144733](https://github.com/user-attachments/assets/b1e48a26-f5a0-4cef-98de-1f078ec754ca)
-
-![Screenshot 2025-01-16 145040](https://github.com/user-attachments/assets/7d8f2d63-09d8-4097-a476-4951b77a3e56)
-
-![Screenshot 2025-01-16 145129](https://github.com/user-attachments/assets/f1b1a329-a9aa-4be7-bcac-4e6f4434773d)
 
 
 
