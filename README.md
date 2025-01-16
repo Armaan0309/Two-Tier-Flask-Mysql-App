@@ -128,3 +128,19 @@ docker run -d \
 
 ```
 
+ # These are the Images captured during the Project
+
+![Screenshot 2025-01-16 144222](https://github.com/user-attachments/assets/38636e37-705e-4bbb-8580-25c60631655d)
+
+![Screenshot 2025-01-16 144507](https://github.com/user-attachments/assets/c09b10b8-4fc4-42aa-9b20-2f29e2d568dc)
+
+![Screenshot 2025-01-16 144733](https://github.com/user-attachments/assets/b1e48a26-f5a0-4cef-98de-1f078ec754ca)
+
+![Screenshot 2025-01-16 145040](https://github.com/user-attachments/assets/7d8f2d63-09d8-4097-a476-4951b77a3e56)
+
+![Screenshot 2025-01-16 145129](https://github.com/user-attachments/assets/f1b1a329-a9aa-4be7-bcac-4e6f4434773d)
+
+
+
+
+
